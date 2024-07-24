@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RestaurantRating</string>
+    <string name="restServerAddress">http://192.168.100.6:4041</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title">Rate Your Favourite Restaurants</string>
+    <string name="edit">Edit Restaurant</string>
+</resources>
